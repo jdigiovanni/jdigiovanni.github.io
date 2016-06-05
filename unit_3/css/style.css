@@ -1,0 +1,67 @@
+body {
+background-color: #A1CCBE;
+text-align: center;
+
+}  		
+
+h1, p {
+	color: #000;
+	background-color: #3CACF1;
+	text-transform: lowercase;
+	text-decoration: none;
+	font-family: Arial, sans-serif;
+	font-size: 24px;
+	font-weight: 700;
+}
+
+h2{
+	color: white;
+}
+
+p {
+	color: #FF0000;
+}
+
+#name {
+    background: #420808;
+}
+
+#hex {
+    background: #CE7D7D;
+}
+
+#rgb {
+    background: rgba(44, 144, 44, 0.2);
+}
+
+div {
+	width: 100px;
+	height: 100px;
+	border: 2px solid #881A1A;
+	display: inline-block;
+	margin: 40px;
+}
+
+a {
+    background-color: white;
+    display: inline-block;
+    margin: 8px;
+    padding: 10px;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+#name {
+	background: black;
+}
+
+#hex {
+	background: #000000;
+}
+
+#rgb {
+	background: rgba(0,0,0,.2);
+}
