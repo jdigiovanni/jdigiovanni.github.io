@@ -4,7 +4,7 @@ text-align: center;
 
 }  		
 
-h1, 
+h1
 
  {
 	text-align: center;
@@ -17,33 +17,27 @@ p {
 	background-color: #3CACF1;
 	text-transform: lowercase;
 	text-decoration: none;
-	font-family: Arial, sans-serif;
-	font-size: 24px;
 	font-weight: 700;
-
-font-family: palatino, georgia, serif;
+	font-family: palatino, georgia, serif;
 	font-size: 18px;
 	line-height: 1.5em;
 	margin: 2em;
-
 
 }
 
 h2{
 	color: white;
-
-font-family: 'Raleway', sans-serif;
-font-size: 25px;
-	line-height: 2em;
-	margin: 2em;
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+	line-height: 1em;
+	margin: 1em;
 
 }
 
 p {
 	color: #FF0000;
-
 	font-family: 'Lora', serif;
-	ont-size: 12px;
+	font-size: 12px;
 	line-height: 1.5em;
 	margin: 1.5em
 }
